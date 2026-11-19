@@ -177,9 +177,3 @@ Try asking:
 - Improved long-term memory management.
 - Multi-user productivity support.
 - Enhanced AI-driven productivity predictions.
-
-
-
-<p align="center">
-  <strong>Built to make productivity more intelligent, reflective, and personalised. 🧠</strong>
-</p>
